@@ -1,0 +1,11 @@
+**/__pycache__
+*.swp
+*.out
+*.jpg
+*.png
+*.js
+*.css
+source.cpp 
+input.txt 
+program
+scripts.log
